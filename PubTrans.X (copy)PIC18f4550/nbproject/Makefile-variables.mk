@@ -1,0 +1,27 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# PIC18F4550 configuration
+CND_ARTIFACT_DIR_PIC18F4550=dist/PIC18F4550/production
+CND_ARTIFACT_NAME_PIC18F4550=PubTrans.X.production.hex
+CND_ARTIFACT_PATH_PIC18F4550=dist/PIC18F4550/production/PubTrans.X.production.hex
+CND_PACKAGE_DIR_PIC18F4550=${CND_DISTDIR}/PIC18F4550/package
+CND_PACKAGE_NAME_PIC18F4550=pubtrans.x.tar
+CND_PACKAGE_PATH_PIC18F4550=${CND_DISTDIR}/PIC18F4550/package/pubtrans.x.tar
+# SAMD20E18 configuration
+CND_ARTIFACT_DIR_SAMD20E18=dist/SAMD20E18/production
+CND_ARTIFACT_NAME_SAMD20E18=PubTrans.X.production.hex
+CND_ARTIFACT_PATH_SAMD20E18=dist/SAMD20E18/production/PubTrans.X.production.hex
+CND_PACKAGE_DIR_SAMD20E18=${CND_DISTDIR}/SAMD20E18/package
+CND_PACKAGE_NAME_SAMD20E18=pubtrans.x.tar
+CND_PACKAGE_PATH_SAMD20E18=${CND_DISTDIR}/SAMD20E18/package/pubtrans.x.tar
+# PIC32 configuration
+CND_ARTIFACT_DIR_PIC32=dist/PIC32/production
+CND_ARTIFACT_NAME_PIC32=PubTrans.X.production.hex
+CND_ARTIFACT_PATH_PIC32=dist/PIC32/production/PubTrans.X.production.hex
+CND_PACKAGE_DIR_PIC32=${CND_DISTDIR}/PIC32/package
+CND_PACKAGE_NAME_PIC32=pubtrans.x.tar
+CND_PACKAGE_PATH_PIC32=${CND_DISTDIR}/PIC32/package/pubtrans.x.tar
